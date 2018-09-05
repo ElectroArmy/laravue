@@ -6,7 +6,7 @@
 5. Run php artisan serve --port=8000
 6. Serve the application by running: `php artisan serve --port=8000`
 
-### Configure the Database (optional) 
+### Configure the Database
 
 If you want to use `mysql` for the example, change settings in `.env` file. The default settings are:
 
